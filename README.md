@@ -12,6 +12,7 @@ TravelDeals is a modern, user-friendly travel website designed to help users dis
    <p>- pip3 install flask-SQLAlchemy==2.5.1</p>
    <p>- pip3 install flask-login</p>
  </p>
+ <p>3. Enjoy</p>
 
 ---
 👩‍💻 Developed by
