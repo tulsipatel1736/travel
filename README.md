@@ -4,13 +4,13 @@ TravelDeals is a modern, user-friendly travel website designed to help users dis
 ---
 
 <h3>💡 How to Use </h3>
-<p>Clone the repository: https://github.com/tulsipatel1736/travel.git</p>
-<p>Download the following packages:
- - pip3 install flask
- - pip3 install flask_wt
- - pip3 install bootstrap-flask
- - pip3 install flask-SQLAlchemy==2.5.1
- - pip3 install flask-login
+<p>1. Clone the repository: https://github.com/tulsipatel1736/travel.git</p>
+<p>2. Download the following packages: </p>
+   <p>- pip3 install flask</p>
+   <p>- pip3 install flask_wt</p>
+   <p>- pip3 install bootstrap-flask</p>
+   <p>- pip3 install flask-SQLAlchemy==2.5.1</p>
+   <p>- pip3 install flask-login</p>
  </p>
 
 ---
